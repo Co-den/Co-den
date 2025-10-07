@@ -1,7 +1,7 @@
 ## Hello, i am Agugbue ikenna, welcome to my GitHub profile.
 
 ## 💻**Fullstack developer**<br/>
-## 📱**Mobile Develpoer**<br/>
+## 📱**Mobile Developer**<br/>
 i am open to networking, collaboration and jobs relating to Tech.
 
 ## 🌐 Socials:
