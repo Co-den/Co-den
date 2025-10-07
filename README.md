@@ -1,8 +1,22 @@
-## Hello, i am Agugbue ikenna, welcome to my GitHub profile.
+## 👋 Hi, I'm Agugbue Ikenna Nzubechi
 
-## 💻**Fullstack developer**<br/>
-## 📱**Mobile Developer**<br/>
-i am open to networking, collaboration and jobs relating to Tech.
+I'm a passionate Fullstack Web Developer and Mobile Developer who thrives on crafting seamless digital experiences and building scalable, high-performance applications. With a strong foundation in both frontend and backend technologies, I bring ideas to life—from concept to deployment—with clean code and thoughtful design.
+
+💼 What I Do
+- 🔧 Build robust, scalable web applications using modern frameworks
+- 📱 Develop intuitive mobile apps that delight users
+- 🎨 Focus on user-centric design and responsive interfaces
+- 🚀 Optimize performance and ensure cross-platform compatibility
+
+🌍 Currently
+- 🏠 Working remotely
+- 🤝 Open to networking, collaboration, and job opportunities in tech
+
+📫 Let's Connect
+- 📧 Email: agugbuenzubechi@gmail.com  
+- 🌐 Facebook: Dave Wonder
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agugbue-ikenna ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamagugbueikenna@gmail.com) 
