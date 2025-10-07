@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Agugbue Ikenna Nzubechi
 
-I am a passionate Fullstack Web Developer and Mobile Developer who thrives on crafting seamless digital experiences and building scalable, high-performance applications. With a strong foundation in both frontend and backend technologies, I bring ideas to life—from concept to deployment—with clean code and thoughtful design.
+I am a passionate Fullstack Web Developer and Mobile Developer who thrives on crafting seamless digital experiences and building scalable, high performance applications. With a strong foundation in both frontend and backend technologies, I bring ideas to life from concept to deployment with clean code and thoughtful design.
 
 ## 💼 What I Do
 - 🔧 Build robust, scalable web applications using modern frameworks
