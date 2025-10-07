@@ -1,20 +1,19 @@
 ## 👋 Hi, I'm Agugbue Ikenna Nzubechi
 
-I'm a passionate Fullstack Web Developer and Mobile Developer who thrives on crafting seamless digital experiences and building scalable, high-performance applications. With a strong foundation in both frontend and backend technologies, I bring ideas to life—from concept to deployment—with clean code and thoughtful design.
+I am a passionate Fullstack Web Developer and Mobile Developer who thrives on crafting seamless digital experiences and building scalable, high-performance applications. With a strong foundation in both frontend and backend technologies, I bring ideas to life—from concept to deployment—with clean code and thoughtful design.
 
-💼 What I Do
+## 💼 What I Do
 - 🔧 Build robust, scalable web applications using modern frameworks
 - 📱 Develop intuitive mobile apps that delight users
 - 🎨 Focus on user-centric design and responsive interfaces
 - 🚀 Optimize performance and ensure cross-platform compatibility
 
-🌍 Currently
+## 🌍 Currently
 - 🏠 Working remotely
 - 🤝 Open to networking, collaboration, and job opportunities in tech
 
-📫 Let's Connect
+## 📫 Let's Connect
 - 📧 Email: agugbuenzubechi@gmail.com  
-- 🌐 Facebook: Dave Wonder
 
 ---
 
